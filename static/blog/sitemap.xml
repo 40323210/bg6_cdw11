@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://bg6cdw11-40323210.rhcloud.com/static/blog/</loc>
-<lastmod>2016-06-18T19:23:11-00:00</lastmod>
+<lastmod>2016-06-18T19:29:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bg6cdw11-40323210.rhcloud.com/static/blog/archives.html</loc>
-<lastmod>2016-06-18T19:23:11-00:00</lastmod>
+<lastmod>2016-06-18T19:29:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bg6cdw11-40323210.rhcloud.com/static/blog/tags.html</loc>
-<lastmod>2016-06-18T19:23:11-00:00</lastmod>
+<lastmod>2016-06-18T19:29:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bg6cdw11-40323210.rhcloud.com/static/blog/categories.html</loc>
-<lastmod>2016-06-18T19:23:11-00:00</lastmod>
+<lastmod>2016-06-18T19:29:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,13 +34,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://bg6cdw11-40323210.rhcloud.com/static/blog/40323210-qi-mo-bao-gao.html</loc>
 <lastmod>2016-06-16T10:13:33+08:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://bg6cdw11-40323210.rhcloud.com/static/blog/40323236-qi-mo-bao-gao.html</loc>
-<lastmod>2016-06-16T10:00:03+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -67,20 +60,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://bg6cdw11-40323210.rhcloud.com/static/blog/category/bg7.html</loc>
-<lastmod>2016-06-16T10:00:03+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://bg6cdw11-40323210.rhcloud.com/static/blog/tag/cdw12.html</loc>
-<lastmod>2016-06-16T10:00:03+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>http://bg6cdw11-40323210.rhcloud.com/static/blog/tag/40323210.html</loc>
 <lastmod>2016-06-16T10:13:33+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -95,7 +74,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://bg6cdw11-40323210.rhcloud.com/static/blog/tag/4032323650.html</loc>
+<loc>http://bg6cdw11-40323210.rhcloud.com/static/blog/tag/cdw12.html</loc>
 <lastmod>2016-06-16T10:00:03+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -104,13 +83,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://bg6cdw11-40323210.rhcloud.com/static/blog/author/40323210.html</loc>
 <lastmod>2016-06-16T10:13:33+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://bg6cdw11-40323210.rhcloud.com/static/blog/author/40323236.html</loc>
-<lastmod>2016-06-16T10:00:03+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
