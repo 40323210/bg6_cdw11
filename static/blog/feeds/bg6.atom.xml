@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW11 網頁 (虎尾科大MDE)</title><link href="http://bg6cdw11-40323210.rhcloud.com/static/blog/" rel="alternate"></link><link href="http://bg6cdw11-40323210.rhcloud.com/static/blog/feeds/bg6.atom.xml" rel="self"></link><id>http://bg6cdw11-40323210.rhcloud.com/static/blog/</id><updated>2016-06-16T10:13:33+08:00</updated><entry><title>40323210 期末報告</title><link href="http://bg6cdw11-40323210.rhcloud.com/static/blog/40323210-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-16T10:13:33+08:00</updated><author><name>40323210</name></author><id>tag:bg6cdw11-40323210.rhcloud.com,2016-06-16:static/blog/40323210-qi-mo-bao-gao.html</id><summary type="html">&lt;p&gt;期末報告:
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW11 網頁 (虎尾科大MDE)</title><link href="http://bg6cdw11-40323210.rhcloud.com/static/blog/" rel="alternate"></link><link href="http://bg6cdw11-40323210.rhcloud.com/static/blog/feeds/bg6.atom.xml" rel="self"></link><id>http://bg6cdw11-40323210.rhcloud.com/static/blog/</id><updated>2016-06-23T08:40:04+08:00</updated><entry><title>40323210 期末報告</title><link href="http://bg6cdw11-40323210.rhcloud.com/static/blog/40323210-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-23T08:40:04+08:00</updated><author><name>40323210</name></author><id>tag:bg6cdw11-40323210.rhcloud.com,2016-06-23:static/blog/40323210-qi-mo-bao-gao.html</id><summary type="html">&lt;p&gt;期末報告:
 
 &lt;h3&gt;Onshape齒輪配合&lt;/h3
 &lt;img src="http://imgur.com/DDvrPnz.png"&gt; 
@@ -11,6 +11,6 @@
 &lt;img src="http://imgur.com/9vduxJe.png"&gt;
 &lt;/br&gt;
 &lt;h3&gt;心得:&lt;/h3&gt;
-&lt;h4&gt;這學期協同產品課程讓大家展現出團隊的分配，從一開始鏈條的製作，使用鏈條排出各種圖形以及英文字母，期中時開始製作齒輪，中間遇到許多的問題，都是大家一起努力克服做出今天有的成品。&lt;/h4&gt;
+&lt;h4&gt;這學一開始仍然是使用從一年級學到現在的東西，包括推送過程git add . gitclone git commit -m "" git pull git push ，再來就是我覺得學到最新的東西，就是重命令列刪除資料git rm -rf*。協同產品課程讓大家展現出團隊的分配，從一開始鏈條的製作，使用鏈條排出各種圖形以及英文字母，期中時開始製作齒輪，中間遇到許多的問題，都是大家一起努力克服做出今天有的成品。&lt;/h4&gt;
 &lt;/br&gt;
-&lt;h4&gt;在期中到期末之間是製作齒輪，利用onshape的spur Gear 的功能可以設定齒數、節圓、模數等數值再把多個齒輪組合在一起最後讓齒輪可以傳動。&lt;/h4&gt;&lt;/p&gt;</summary><category term="40323210"></category></entry></feed>
+&lt;h4&gt;在期中到期末之間是製作齒輪，利用onshape的spur Gear 的功能設定齒數、節圓、模數等數值再把多個齒輪組合在一起最後讓齒輪可以傳動。&lt;/h4&gt;&lt;/p&gt;</summary><category term="40323210"></category></entry></feed>
